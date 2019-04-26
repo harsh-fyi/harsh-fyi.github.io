@@ -23,8 +23,8 @@ author:
   #email:            your-id@your-email.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2019
+  name:             harsh.fyi
 
 # Google-analytics
 google-analytics:
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "harsh_fyi"
 
 # URL
 url:                "https://harsh-fyi.github.io" # the base hostname & protocol for your site
@@ -41,11 +41,11 @@ baseurl:            "/" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           America/Los_Angeles
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           5
+paginate:           15
 paginate_path:      /page:num/
 
 # Markdown
@@ -55,14 +55,10 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
 
 # Sass
 sass:
