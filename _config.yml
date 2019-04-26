@@ -28,7 +28,7 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-139171055-1"
 
 # Disqus
 disqus:
@@ -55,7 +55,7 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "Interview Camp"
+  - name:           "InterviewCamp.io"
     url:            "https://interviewcamp.io"
   - name:           "Archive"
     url:            "/archive"
