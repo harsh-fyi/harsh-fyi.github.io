@@ -55,7 +55,7 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "InterviewCamp.io"
+  - name:           "course"
     url:            "https://interviewcamp.io"
   - name:           "Archive"
     url:            "/archive"
