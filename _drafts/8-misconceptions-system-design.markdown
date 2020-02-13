@@ -1,5 +1,5 @@
 ---
-title: First Draft
+title: 8 Misconceptions in System Design Interviews
 date: 2020-02-12 23:57:00 -08:00
 tags:
 - sample post
@@ -9,8 +9,6 @@ comments: false
 share: true
 layout: post
 ---
-
-# 8 Misconceptions in System Design Interviews
 
 ## #1. “System Design interviews have a fixed format”
 
