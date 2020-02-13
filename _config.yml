@@ -1,5 +1,5 @@
 ---
-title: Harsh Fyi.Github.Io
+title: Harsh.fyi
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -46,7 +46,7 @@ nav:
   url: "/tags"
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 gems:
 - jekyll-seo-tag
 - jekyll-paginate
