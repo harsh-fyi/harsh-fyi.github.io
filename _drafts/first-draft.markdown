@@ -1,8 +1,11 @@
 ---
 title: First Draft
+date: 2020-02-12 23:57:13.519000000 -08:00
+tags:
+- sample post
+- code
 description: Learn how to do this
 layout: post
-tags: [sample post, code]
 comments: false
 share: true
 ---
