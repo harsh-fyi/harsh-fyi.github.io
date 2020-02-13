@@ -45,7 +45,7 @@ The instinct is to list as many features as possible. We think - this will impre
 The interviewer is not looking for your product design skills. They're looking for your system design skills.
 So any features you list won't matter in the interview.
 
-Product Design vs System Design
+**Product Design vs System Design**
 
 The goal is to get to the System. And for that, you need to quickly decide on features and get them out of the way.
 The best way to do this - narrow down features as much as possible. List only the essential features.
