@@ -4,7 +4,7 @@ date: 2020-02-12 23:57:00 -08:00
 tags:
 - sample post
 - code
-description: 
+description: 8 misconceptions for system design interviews
 comments: false
 share: true
 layout: post
