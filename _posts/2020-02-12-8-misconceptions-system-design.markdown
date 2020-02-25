@@ -14,7 +14,7 @@ layout: post
 
 In coding interviews, you are given a problem and you find a solution. It's more or less objective. System Design is far from objective.
 
-There's no right answer. Or a right direction. If that sounds confusing, you're not alone!
+There's no right answer. Or a right direction. If that sounds confusing, you're not alone.
 
 System Design interviews are meant to be discussions. Each interviewer wants something different.
 
