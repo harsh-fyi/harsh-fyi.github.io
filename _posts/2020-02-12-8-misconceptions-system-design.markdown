@@ -14,7 +14,7 @@ layout: post
 
 In coding interviews, you are given a problem and you find a solution. It's more or less objective. System Design is far from objective.
 
-There's no right answer. Or a right direction. If that sounds confusing, you're not alone.
+There's no right answer. Or a right direction. If that sounds confusing, you're not alone!
 
 System Design interviews are meant to be discussions. Each interviewer wants something different.
 
@@ -45,7 +45,7 @@ The instinct is to list as many features as possible. We think - this will impre
 The interviewer is not looking for your product design skills. They're looking for your system design skills.
 So any features you list won't matter in the interview.
 
-Product Design vs System Design
+**Product Design vs System Design**
 
 The goal is to get to the System. And for that, you need to quickly decide on features and get them out of the way.
 The best way to do this - narrow down features as much as possible. List only the essential features.
